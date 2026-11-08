@@ -4,8 +4,7 @@
 
 `Curious | Quantitative | Data-Driven | Always Evolving`
 
-*Final-Year B.Tech in Information Technology (Data Science) — Walchand Institute of Technology, Solapur (CGPA: 9.18/10)*
-
+*Final-Year B.Tech in Information Technology (Data Science)
 🔗 [**LinkedIn**](https://www.linkedin.com/in/abhijitsolanki009) • 📧 [**Email**](mailto:solankiabhit427@gmail.com) • 💻 [GitHub](https://github.com/abhijitsolanki)
 
 ## 🎯 About Me
