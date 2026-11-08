@@ -6,13 +6,13 @@
 
 *Final-Year B.Tech in Information Technology (Data Science) — Walchand Institute of Technology, Solapur (CGPA: 9.18/10)*
 
-🔗 [**LinkedIn**](https://www.linkedin.com/in/abhijitsolanki009) • 📧 [**Email**](mailto:solankiabhijit427@gmail.com) • 💻 [GitHub](https://github.com/abhijitsolanki)
+🔗 [**LinkedIn**](https://www.linkedin.com/in/abhijitsolanki009) • 📧 [**Email**](mailto:solankiabhit427@gmail.com) • 💻 [GitHub](https://github.com/abhijitsolanki)
 
 ## 🎯 About Me
 
 > *"Putting numbers to my ideas — turning mathematical models and noisy data into intelligent systems across quantitative finance, deep learning, and generative AI"*
 
-I'm a passionate technologist and quantitative builder who believes in **learning by building, breaking, and iterating**. My journey revolves around designing end-to-end machine learning pipelines, modeling financial markets with deep reinforcement learning, and engineering domain-specific LLM and RAG architectures. Selected as a trainee for the **Amazon ML Summer School 2025** and a **2nd Runner-Up at the Build-A-Thon Hackathon (PCCOE, Pune)**, I thrive on bridging rigorous statistical theory with production-grade code.
+I'm a passionate technologist and quantitative researcher who believes in **learning by researching, building, testing, and iterating**. My work focuses on exploring financial markets, conducting in-depth quantitative research, identifying hidden patterns and statistical relationships in market data, and translating those insights into systematic trading strategies. I enjoy developing mathematical and algorithmic models that detect market behaviour, generate trading signals, and identify opportunities in real time, bridging the gap between theoretical research and practical algorithmic trading. Selected as a trainee for the **Amazon ML Summer School 2025** and a **2nd Runner-Up at the Build-A-Thon Hackathon (PCCOE, Pune)**, I thrive on bridging rigorous statistical theory with production-grade code.
 
 **Current Focus:** Building algorithmic trading and portfolio optimization frameworks using Deep Reinforcement Learning and RAG systems while preparing for high-impact roles in Quantitative Research, Data Science, and AI/ML Engineering.
 
