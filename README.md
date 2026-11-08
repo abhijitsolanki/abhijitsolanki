@@ -18,17 +18,17 @@ I'm a passionate technologist and quantitative builder who believes in **learnin
 
 ## 🛠️ Tech Arsenal
 
-### Programming & Databases
+### Proficiency
 
-* **Python** • **C++** • **SQL** • **MongoDB** • **LaTeX**
+Python • Applied Statistics • Advanced Feature Engineering • Machine Learning • Time Series Analysis • Deep Learning Architectures • Natural Language Processing • Generative AI • SQL • MongoDB
 
-### AI/ML, Deep Learning & GenAI
+### Tools & Technologies
 
-* **PyTorch** • **TensorFlow** • **Keras** • **Scikit-learn** • **LangChain** • **Hugging Face** • **Sentence Transformers** • **ChromaDB** • **NLTK & spaCy** • **YOLO** • **OpenAI Gym**
+Pandas • NumPy • Matplotlib • Scikit-learn • PyTorch • TensorFlow • CNN • Flask • REST • RNN • LSTM • Transformers • RAG • Vector Databases • LLMs • Reinforcement Learning • Power BI
 
-### Data Science, MLOps & Tools
+### Soft Skills
 
-* **Pandas** • **NumPy** • **Matplotlib & Plotly** • **NetworkX** • **FastAPI** • **Streamlit** • **Flask** • **Docker** • **AWS** • **Git & GitHub Actions** • **Power BI** • **Zerodha Kite API**
+Professional Communication • Strategic Decision Making under Pressure • Teamwork • Adaptability • Attention to Detail • Time Management • Game Theory
 
 ## 💡 What I'm Building
 
