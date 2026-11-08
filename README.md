@@ -32,33 +32,16 @@ Professional Communication • Strategic Decision Making under Pressure • Team
 
 ## 💡 What I'm Building
 
-### 📈 Quantitative Finance & Algorithmic Trading
-
-* **Dynamic Asset Allocation & Crisis Management (Deep RL):** Modeled portfolio optimization as a Markov Decision Process using DDPG & DDQN in a custom OpenAI Gym environment with VIX regime signals (achieved **2.15 Sharpe Ratio**, **16.21% CAGR**, and **8.35% Max Drawdown**)
-
-* **Geometric Momentum Trend Detection System:** Real-time quantitative trading engine combining geometric slope analysis, Euclidean distance, Zerodha Kite API integration, interactive Plotly dashboards, and automated Telegram Bot alerts
-
-* **Network Analysis of the Indian Stock Market:** Correlation-based equity graphs on NSE data using NetworkX and centrality metrics (Degree, Closeness, Betweenness, Eigenvector) to identify systemically important stocks
-
-### 🧠 Generative AI & Domain-Specific RAG
-
-* **Q-MIND (Quantitative Mathematics Ingestion & Numerical Derivations):** Domain-specific financial mathematics RAG pipeline built over 35+ quantitative finance textbooks using Python, ChromaDB, Sentence Transformers, Gemini, and Streamlit
-
-* **Mathematical Chunking & Two-Stage Reasoning:** Custom PDF ingestion and semantic retrieval pipelines designed to preserve complex mathematical derivations and eliminate LLM hallucinations
-
-### 🔬 Deep Learning & Time-Series Modeling
-
-* **HDFC Stock Price Forecasting:** Sequence-windowed LSTM recurrent neural network in TensorFlow/Keras capturing non-linear temporal dependencies in equity market data
-
-* **Lung Disease X-Ray Diagnosis:** End-to-end computer vision classification pipeline using a custom PyTorch CNN, served via FastAPI, containerized with Docker, and deployed on AWS with GitHub Actions CI/CD
-
-* **Deep Audio Spectrogram Classification:** CNN-based acoustic classification pipeline processing 6,000+ audio files into spectrograms, deployed across AWS S3 and Google Cloud
-
-### ⚙️ End-to-End MLOps & Data Pipelines
-
-* **Customer Personality Segmentation & Climate Visibility Prediction:** Automated preprocessing, clustering (K-Means), classification (Logistic Regression), and GridSearchCV hyperparameter tuning deployed with FastAPI, Docker, MongoDB, and AWS
-
-* **Automated Sentiment & Review Analytics:** Interactive Streamlit and MongoDB scraping pipelines for real-time consumer sentiment analysis
+- **Dynamic Asset Allocation & Crisis Management (Deep RL)**
+- **Geometric Momentum Trend Detection System**
+- **Network Analysis of the Indian Stock Market**
+- **Q-MIND (Quantitative Mathematics Ingestion & Numerical Derivations)**
+- **Mathematical Chunking & Two-Stage Reasoning**
+- **HDFC Stock Price Forecasting**
+- **Lung Disease X-Ray Diagnosis**
+- **Deep Audio Spectrogram Classification**
+- **Customer Personality Segmentation & Climate Visibility Prediction**
+- **Automated Sentiment & Review Analytics**
 
 ## 📊 GitHub Analytics
 
